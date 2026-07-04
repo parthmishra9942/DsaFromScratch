@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
