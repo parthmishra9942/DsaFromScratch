@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0027-remove-element](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
