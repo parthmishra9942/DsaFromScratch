@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0018-4sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
