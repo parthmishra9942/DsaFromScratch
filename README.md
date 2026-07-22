@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0027-remove-element](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0009-palindrome-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
