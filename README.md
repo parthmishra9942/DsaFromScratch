@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0287-find-the-duplicate-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
