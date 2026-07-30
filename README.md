@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1518-water-bottles) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2769-find-the-maximum-achievable-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0093-restore-ip-addresses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0093-restore-ip-addresses) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
