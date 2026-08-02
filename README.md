@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0027-remove-element](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0152-maximum-product-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0009-palindrome-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0231-power-of-two) |
