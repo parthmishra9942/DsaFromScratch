@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0029-divide-two-integers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0258-add-digits) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
