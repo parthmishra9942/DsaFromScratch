@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1550-three-consecutive-odds) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 | [1518-water-bottles](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1518-water-bottles) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
@@ -233,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
