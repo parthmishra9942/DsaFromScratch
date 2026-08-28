@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0196-delete-duplicate-emails) |
 ## Quicksort
 |  |
