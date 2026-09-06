@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0058-length-of-last-word](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
