@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0258-add-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0115-distinct-subsequences](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0258-add-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [1518-water-bottles](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1518-water-bottles) |
 ## Binary Search
 |  |
