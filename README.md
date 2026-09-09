@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
