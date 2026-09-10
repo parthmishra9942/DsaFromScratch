@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -308,11 +309,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
