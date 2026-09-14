@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3798-largest-even-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
