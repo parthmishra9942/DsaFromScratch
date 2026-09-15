@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
