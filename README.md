@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3731-find-missing-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
