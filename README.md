@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0836-rectangle-overlap](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1518-water-bottles) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
