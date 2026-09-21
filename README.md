@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
