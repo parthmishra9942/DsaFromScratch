@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
@@ -410,5 +412,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
