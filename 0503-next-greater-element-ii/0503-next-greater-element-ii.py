@@ -1,17 +1,16 @@
-class Solution(object):
+class Solution:
     def nextGreaterElements(self, nums):
         n = len(nums)
-        stack = []
-        res = [-1] * n
+        ans = [-1] * n
+        st = []
 
         for i in range(2 * n - 1, -1, -1):
-            while stack and stack[-1] <= nums[i % n]:
-                stack.pop()
+            while st and st[-1] <= nums[i % n]:
+                st.pop()
 
-            if i < n:
-                if stack:
-                    res[i] = stack[-1]
+            if st:
+                ans[i % n] = st[-1]
 
-            stack.append(nums[i % n])
+            st.append(nums[i % n])
 
-        return res
+        return ans
