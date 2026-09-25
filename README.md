@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0093-restore-ip-addresses) |
+| [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
+| [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0503-next-greater-element-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
