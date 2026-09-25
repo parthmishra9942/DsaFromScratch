@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0424-longest-repeating-character-replacement](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -416,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
