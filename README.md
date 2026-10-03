@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0020-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0093-restore-ip-addresses) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
