@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0022-generate-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
