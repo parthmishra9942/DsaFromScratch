@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0056-merge-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
