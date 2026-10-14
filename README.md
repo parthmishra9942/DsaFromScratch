@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0940-distinct-subsequences-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
@@ -481,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
