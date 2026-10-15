@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3498-reverse-degree-of-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3798-largest-even-number) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3483-unique-3-digit-even-numbers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0383-ransom-note](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1189-maximum-number-of-balloons) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Euclidean Algorithm
 |  |
 | ------- |
