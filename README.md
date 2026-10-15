@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3483-unique-3-digit-even-numbers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3731-find-missing-elements) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
