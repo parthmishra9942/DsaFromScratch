@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0056-merge-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0219-contains-duplicate-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
