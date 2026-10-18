@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1550-three-consecutive-odds](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1550-three-consecutive-odds) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1401-circle-and-rectangle-overlapping](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1518-water-bottles) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -429,12 +434,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0110-balanced-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0110-balanced-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
@@ -459,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sweep Line
 |  |
@@ -525,5 +533,14 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
