@@ -1,5 +1,74 @@
-# DsaFromScratch
-A collection of LeetCode questions to ace the coding interview! -
+<div align="center">
+
+# ⚔️ Data Structures & Algorithmic Patterns From Scratch
+### *Production-Grade Problem Solving, Time-Space Complexity Mastery & FAANG Interview Architecture*
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-parth213g-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/parth213g/)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-131%2B-00b8a3?style=for-the-badge&logo=hackerrank&logoColor=white)](#-problem-distribution)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-parthh.runs--on.dev-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parthh.runs-on.dev)
+[![Author](https://img.shields.io/badge/Author-Parth_Mishra-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthmishra9942)
+
+<p align="center">
+  <b>Curated repository of algorithmic solutions, low-level data structure implementations, and pattern-based mental models engineered for Tier-1 technical evaluations (Google, Amazon, Microsoft, Uber, High-Frequency Trading).</b>
+</p>
+
+</div>
+
+---
+
+## 📊 Problem Distribution & Difficulty Breakdown
+
+```
+        ┌────────────────────────────────────────────────────────┐
+        │                 TOTAL SOLVED: 131+                     │
+        └───────────────────────────┬────────────────────────────┘
+                                    │
+            ┌───────────────────────┼───────────────────────┐
+            ▼                       ▼                       ▼
+ 🟢 59 Easy (45.0%)      🟡 58 Medium (44.3%)     🔴 14 Hard (10.7%)
+   [Core Foundations]      [System Building Blocks] [Optimal Mathematical Limits]
+```
+
+| Difficulty | Count | Primary Algorithmic Focus | Optimal Time Bound |
+| :--- | :--- | :--- | :--- |
+| **🟢 Easy** | `59` | Fast Two Pointers, HashMap Lookups, In-Place Array Mutation, Tree Traversals | $\mathcal{O}(N)$ / $\mathcal{O}(1)$ Aux |
+| **🟡 Medium** | `58` | Monotonic Stacks, Sliding Window with Deques, 0/1 Knapsack DP, Graph BFS/DFS | $\mathcal{O}(N \log N)$ or $\mathcal{O}(N)$ |
+| **🔴 Hard** | `14` | Segment Trees, Multi-Dimensional State Compression DP, Monotonic Deque Optimization | $\mathcal{O}(N \log K)$ or $\mathcal{O}(N)$ |
+
+---
+
+## 🧠 Master Algorithmic Pattern Taxonomy
+
+The core philosophy of this repository: **Do not memorize code—recognize the invariants.**
+
+| # | Algorithmic Pattern | Identifying Trigger / Invariant | Core Data Structure | Canonical Problems Solved |
+| :-: | :--- | :--- | :--- | :--- |
+| **1** | **Two Pointers (Bidirectional & Fast/Slow)** | Sorted contiguous arrays, cycle detection, pair sums | Arrays, Linked Lists | `0015-3sum`, `0016-3sum-closest`, `0018-4sum`, `0141-linked-list-cycle` |
+| **2** | **Sliding Window (Dynamic & Fixed)** | Longest/shortest subsegment satisfying dynamic condition $\mathcal{K}$ | Hash Map, Doubly Linked Deque | `0003-longest-substring-without-repeating`, `0209-min-size-subarray`, `0904-fruit-baskets` |
+| **3** | **Monotonic Stack & Queue** | Next Greater / Previous Smaller element in $\mathcal{O}(N)$ single pass | LIFO Stack, Monotonic Deque | `0020-valid-parentheses`, `0503-next-greater-ii`, `0739-daily-temperatures` |
+| **4** | **Kadane's & Dynamic Invariants** | Maximum subarray sum with at most $k$ deletions / resets | In-Place Prefix Accumulators | `0053-maximum-subarray`, `0152-max-product-subarray`, `0918-circular-subarray` |
+| **5** | **Interval Scheduling & Sweep-Line** | Overlapping timelines, interval merging, collision detection | Array Sort + Min-Heap | `0056-merge-intervals`, `0057-insert-interval`, `0986-interval-intersections` |
+| **6** | **Prefix Sums & Remainder Hashing** | Subarray sums divisible by $k$ or equal to target $T$ in $\mathcal{O}(1)$ | Hash Table | `0974-subarray-sums-divisible-by-k`, `1749-max-absolute-subarray-sum` |
+| **7** | **Tree Depth-First & Breadth-First** | Subtree properties, height balance, level-order invariants | Recursive Call Stack, Queue | `0100-same-tree`, `0110-balanced-binary-tree`, `2265-nodes-equal-to-average` |
+| **8** | **Dynamic Programming & State Machines** | Optimal substructure with overlapping subproblems | Memoized Tables, Space-Optimized Rollers | `0070-climbing-stairs`, `0115-distinct-subsequences`, `1140-stone-game-ii` |
+
+---
+
+## ⚡ Big-O Time & Space Reference Matrix
+
+```
+Complexity   Class           Description                       Example in Repository
+────────────────────────────────────────────────────────────────────────────────────
+O(1)         Constant        Hash lookups, bitwise bitmasking   0136-single-number
+O(log N)     Logarithmic     Binary Search, Divide & Conquer    0035-search-insert-position
+O(N)         Linear          Two Pointers, Monotonic Stack      0739-daily-temperatures
+O(N log N)   Linearithmic    Merge Sort, Heap Top-K             0056-merge-intervals
+O(N * K)     Pseudo-Linear   Dynamic Programming State Knapsack 0115-distinct-subsequences
+O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-parentheses
+```
+
+---
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -548,3 +617,10 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
+
+
+---
+
+<div align="center">
+  <sub>Engineered by <b><a href="https://github.com/parthmishra9942">Parth Mishra</a></b> · B.Tech CSE (AI/ML) @ VIT Bhopal · High-Performance Problem Solving</sub>
+</div>
