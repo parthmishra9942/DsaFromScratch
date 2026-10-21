@@ -310,6 +310,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3798-largest-even-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
