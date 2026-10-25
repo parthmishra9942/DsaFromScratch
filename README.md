@@ -109,6 +109,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0986-interval-list-intersections](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1550-three-consecutive-odds](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1550-three-consecutive-odds) |
@@ -449,6 +450,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | ------- |
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0110-balanced-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -457,6 +459,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0100-same-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -538,6 +541,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
@@ -614,6 +618,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
