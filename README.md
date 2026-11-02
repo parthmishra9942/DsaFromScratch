@@ -99,6 +99,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0228-summary-ranges](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0748-shortest-completing-word) |
@@ -174,6 +175,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0088-merge-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -233,6 +235,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0268-missing-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1071-greatest-common-divisor-of-strings) |
