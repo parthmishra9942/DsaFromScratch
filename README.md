@@ -139,6 +139,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -390,6 +391,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
