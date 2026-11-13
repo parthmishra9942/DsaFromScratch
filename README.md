@@ -131,6 +131,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -428,6 +429,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -476,10 +478,12 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -615,6 +619,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -632,6 +637,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0739-daily-temperatures) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -658,6 +664,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
