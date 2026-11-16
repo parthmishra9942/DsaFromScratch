@@ -237,6 +237,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | ------- |
 | [0009-palindrome-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0070-climbing-stairs) |
@@ -305,6 +306,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0097-interleaving-string) |
@@ -348,6 +350,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0415-add-strings) |
