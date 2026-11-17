@@ -172,6 +172,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [0986-interval-list-intersections](https://github.com/parthmishra9942/DsaFromScratch/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -337,6 +338,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [2243-calculate-digit-sum-of-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3498-reverse-degree-of-a-string) |
@@ -394,6 +396,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
