@@ -152,6 +152,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3886-sum-of-sortable-integers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -239,6 +240,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -385,6 +387,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -723,6 +726,18 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
 
 
