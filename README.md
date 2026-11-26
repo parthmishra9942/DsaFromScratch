@@ -275,6 +275,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [2769-find-the-maximum-achievable-number](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3524-find-x-value-of-array-i) |
@@ -372,6 +373,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [1518-water-bottles](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1518-water-bottles) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
