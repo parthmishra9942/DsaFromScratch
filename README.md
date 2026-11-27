@@ -154,6 +154,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3904-smallest-stable-index-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -419,6 +420,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -564,6 +566,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
