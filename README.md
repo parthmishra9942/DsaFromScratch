@@ -155,6 +155,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3934-smallest-unique-subarray](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +208,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -436,6 +438,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [1882-process-tasks-using-servers](https://github.com/parthmishra9942/DsaFromScratch/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthmishra9942/DsaFromScratch/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
@@ -567,6 +570,7 @@ O(2^N)       Exponential     Combinatorial Backtracking         0022-generate-pa
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/parthmishra9942/DsaFromScratch/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Minimax
 |  |
 | ------- |
